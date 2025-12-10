@@ -96,4 +96,4 @@ Then open `Genetic_Algorithm.ipynb`, `Hill_Climb.ipynb`, or `Random_search.ipynb
 The project generates PDF plots showing the trade-offs and trends, such as:
 -   Increasing data size typically increases energy consumption.
 -   Optimal bandwidth selection can minimize transmission time and energy.
--   Optimization algorithms show convergence (decreasing energy) over generations..
+-   Optimization algorithms show convergence (decreasing energy) over generations.

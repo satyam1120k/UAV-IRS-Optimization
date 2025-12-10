@@ -85,7 +85,7 @@ Then open `Genetic_Algorithm.ipynb`, `Hill_Climb.ipynb`, or `Random_search.ipynb
 -   **Population:** Randomly initialized solutions (UAV positions, power allocation).
 -   **Crossover & Mutation:** Standard genetic operators are applied to numerical values (Power, Bandwidth, Velocity) to explore the solution space.
 -   **Fitness Function:** Minimizes the total energy consumption equation.
--   **Selection:** Auction-based assignment or standard selection to pair UAVs with Base Stations.
+-   **Selection:** Auction-based assignment or standard selection to pair UAVs with Base Stations..
 
 ### Hill Climbing (HC)
 -   **Iterative Improvement:** Starts with a random solution and iteratively makes small perturbations.
